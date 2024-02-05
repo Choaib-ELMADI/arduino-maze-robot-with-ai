@@ -1,17 +1,17 @@
-# Arduino Maze Solving Robot with Artificial Intelligence
-## Here, you can find:
+<h1>Arduino Maze Solving Robot with Artificial Intelligence</h1>
+<h2>Here, you can find:</h2>
 <ol>
-  <li>3D Models</li>
-  <li>Circuit Diagrams</li>
-  <li>Arduino: Data Collection Programs</li>
-  <li>Python: Data Collection Programs</li>
-  <li>Arduino: Training Programs</li>
-  <li>Python: Training Programs</li>
+  <h3><li>3D Models</li></h3>
+  <h3><li>Circuit Diagrams</li></h3>
+  <h3><li>Arduino: Data Collection Programs</li></h3>
+  <h3><li>Python: Data Collection Programs</li></h3>
+  <h3><li>Arduino: Training Programs</li></h3>
+  <h3><li>Python: Training Programs</li></h3>
 </ol>
 <img src="3D Models/3d-robot.png" />
-## Controller Board:
+<h2>Controller Board:</h2>
 <img src="Circuit Diagrams/controller_board.png" />
-## Data Collection Board:
+<h2>Data Collection Board:</h2>
 <img src="Circuit Diagrams/data_board.png" />
-# Main Board:
+<h2>Main Board:</h2>
 <img src="Circuit Diagrams/board.png" />
