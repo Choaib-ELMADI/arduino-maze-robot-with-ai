@@ -9,6 +9,9 @@
   <li>Python: Training Programs</li>
 </ol>
 <img src="3D Models/3d-robot.png" />
-<img src="Circuit Diagrams/board.png" />
+## Controller Board:
 <img src="Circuit Diagrams/controller_board.png" />
+## Data Collection Board:
 <img src="Circuit Diagrams/data_board.png" />
+# Main Board:
+<img src="Circuit Diagrams/board.png" />
